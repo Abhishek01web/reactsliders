@@ -1,0 +1,1 @@
+export const strapi_api_token = import.meta.env.VITE_STRAPI_API_TOKEN;

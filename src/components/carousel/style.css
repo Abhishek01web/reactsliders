@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.carousel {
+  padding: 5px;
+}
+
+.btn {
+  position: absolute;
+  top: 90%;
+  left: 90%;
+  padding: 5px;
+  background: #f8f6f6;
+  color: #f70808;
+}
+
+.pre {
+  z-index: 9;
+}
+
+.nxt {
+    rotate: 180deg;
+    left: 95%;
+}
+
+.img {
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+}
